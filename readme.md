@@ -34,9 +34,9 @@
 
 <!-- YOUTUBE:START -->
 
-- [Responsive project](https://gitlab.com/Amoross/responsive-project)
-- [Symfony 5 blog ](https://symfony-blog-isma.herokuapp.com)
-- [Deep learning on geographic photos]()
+- [Responsive project (MEAN Stack)](https://gitlab.com/Amoross/responsive-project)
+- [Symfony 5 blog (Symfony)](https://symfony-blog-isma.herokuapp.com)
+- [Land Analysis Dordogne (Deep Learning)](https://github.com/SAIIsmael/AnalyseTerrainDordogne)
 
 ➡️ [more projects...](https://gitlab.com/SAIIsmael)
 
@@ -46,11 +46,13 @@
 
 [<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
 [youtube]: https://www.youtube.com/channel/UCziNlsJngBGt3JkyXW5vUdA?view_as=subscriber
 [instagram]: https://www.instagram.com/isma.manny
 [linkedin]: https://www.linkedin.com/in/isma%C3%ABl-sa%C3%AF-97a338193/
-
+[discord]: https://discord.com/users/535053895236452353
