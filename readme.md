@@ -3,7 +3,7 @@
 ## I'm a student in software and web devlopement
 
 - 🌱 I’m currently learning everything I can.
-- 👀 I’m looking for an internship in web/software developement.
+- 👀 I’m looking for an internship in web/software development.
 - 🥅 2021 Goals: Contribute to a world changing project.
 - 🥋 Fun fact: I was French champion of Chinese boxing (sanda) in 2012.
 
