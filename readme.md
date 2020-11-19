@@ -1,5 +1,7 @@
 ### Hi there, I'm Ismaël Saï 👋
 
+[![SAIIsmael's github stats](https://github-readme-stats.vercel.app/api?username=SAIIsmael)](https://github.com/anuraghazra/github-readme-stats)
+
 ## I'm a student in software and web devlopement
 
 - 🌱 I’m currently learning everything I can.
