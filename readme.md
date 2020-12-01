@@ -1,4 +1,4 @@
-### Hi there, I'm Ismaël Saï 👋
+### Hi there, I'm Ismaël Saï 👋🏽
 
 [![SAIIsmael's github stats](https://github-readme-stats.vercel.app/api?username=SAIIsmael)](https://github.com/anuraghazra/github-readme-stats)
 
