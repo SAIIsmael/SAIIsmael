@@ -2,10 +2,9 @@
 
 [![SAIIsmael's github stats](https://github-readme-stats.vercel.app/api?username=SAIIsmael)](https://github.com/anuraghazra/github-readme-stats)
 
-## I'm a student in software and web devlopement
+## I'm a Computer science engineer specialized in web and software development
 
 - 🌱 I’m currently learning everything I can.
-- 👀 I’m looking for an internship in web/software development.
 - 🥅 2021 Goals: Contribute to a world changing project.
 - 🥋 Fun fact: I was French champion of Chinese boxing (sanda) in 2012.
 
@@ -34,7 +33,6 @@
 
 ### 💻 Currently workin on:
 
-<!-- YOUTUBE:START -->
 
 - [Responsive project (MEAN Stack)](https://gitlab.com/Amoross/responsive-project)
 - [Symfony 5 blog (Symfony)](https://symfony-blog-isma.herokuapp.com)
@@ -50,11 +48,5 @@
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
-
 [youtube]: https://www.youtube.com/channel/UCziNlsJngBGt3JkyXW5vUdA?view_as=subscriber
-[instagram]: https://www.instagram.com/isma.manny
 [linkedin]: https://www.linkedin.com/in/isma%C3%ABl-sa%C3%AF-97a338193/
-[discord]: https://discord.com/users/535053895236452353
