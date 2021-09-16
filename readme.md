@@ -5,7 +5,7 @@ My name is Ismaël Saï and I'm a computer science engineer specialized in web a
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/SAIIsmael">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAIIsmael&hide=html,textex&langs_count=3&title_color=ffffff&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAIIsmael&hide=html,textex,jupyter%20notebook,css&langs_count=3&title_color=ffffff&theme=dracula" />
 </a>
 <a href="https://github.com/SAIIsmael">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SAIISmael&show_icons=true&line_height=27&count_private=true&title_color=ffffff&theme=dracula" alt="Martin's GitHub Stats" />
