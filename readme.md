@@ -49,7 +49,7 @@ My name is Ismaël Saï and I'm a computer science engineer specialized in web a
 - [Review analysis (MEAN Stack)](https://github.com/SAIIsmael/reviewAnalysis)
 - [Earth-moon simulation(C++/openGL)](https://github.com/SAIIsmael/earth-moonSystem)
 - [Land Analysis Dordogne (Deep Learning)](https://github.com/SAIIsmael/AnalyseTerrainDordogne)
-- [Netflix clone (MERN Stack](https://github.com/SAIIsmael/Netflixclone)
+- [Netflix clone (MERN Stack)](https://github.com/SAIIsmael/Netflixclone)
 
 ➡️ [more projects...](https://github.com/SAIIsmael)
 
