@@ -11,7 +11,7 @@ My name is Ismaël Saï and I'm a computer science engineer specialized in web a
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SAIISmael&show_icons=true&line_height=27&count_private=true&title_color=ffffff&theme=dracula" alt="Martin's GitHub Stats" />
 </a>
 
-## I'm a computer science engineer specialized in web and software development
+## :tipping_hand_man: Random informations
 
 - :seedling: I’m currently learning react and vue.
 - :goal_net: 2021 Goals: Contribute to a world changing project.
