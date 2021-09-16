@@ -47,11 +47,11 @@ My name is Ismaël Saï and I'm a computer science engineer specialized in web a
 <!-- YOUTUBE:START -->
 
 - [Review analysis (MEAN Stack)](https://github.com/SAIIsmael/reviewAnalysis)
-- [Symfony 5 blog (Symfony)](https://symfony-blog-isma.herokuapp.com)
+- [Earth-moon simulation(C++/openGL)](https://github.com/SAIIsmael/earth-moonSystem)
 - [Land Analysis Dordogne (Deep Learning)](https://github.com/SAIIsmael/AnalyseTerrainDordogne)
 - [Netflix clone (MERN Stack](https://github.com/SAIIsmael/Netflixclone)
 
-➡️ [more projects...](https://gitlab.com/SAIIsmael)
+➡️ [more projects...](https://github.com/SAIIsmael)
 
 ---
 
