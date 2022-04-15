@@ -14,8 +14,7 @@ My name is Ismaël Saï and I'm a computer science engineer specialized in web a
 
 ## :tipping_hand_man: Random informations
 
-- :seedling: I’m currently learning react and vue.
-- :goal_net: 2021 Goals: Contribute to a world changing project.
+- :seedling: I’m currently learning react native and vue.
 - :martial_arts_uniform: Fun fact: I was French champion of Chinese boxing (sanda) in 2012.
 
 ## <br />
