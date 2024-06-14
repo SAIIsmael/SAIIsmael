@@ -1,25 +1,17 @@
 
-## Hi there :wave:
+# Ismael L. Sai
 
-My name is Ismaël Saï and I'm a computer science engineer specialized in web and software development. I'm from France :fr:, living in Montpellier.
+I'm a software engineer specialized in web and software development. I'm from France :fr:, living in Canada 🇨🇦.
 
-## &#x1f4c8; GitHub Stats
+[View my resume](ismaelsai.tiiny.site)
 
-<a href="https://github.com/SAIIsmael">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAIIsmael&hide=html,textex,jupyter%20notebook,css&langs_count=3&title_color=ffffff&theme=dracula" />
-</a>
-<a href="https://github.com/SAIIsmael">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SAIISmael&show_icons=true&line_height=27&count_private=true&title_color=ffffff&theme=dracula" alt="Martin's GitHub Stats" />
-</a>
+## My Experience
 
-## :tipping_hand_man: Random informations
+- **Software Engineer consultant** at [_Capgemini_](https://www.capgemini.com/fr-fr/) working for [_BPCE_](https://www.groupebpce.com/en/homepage-2/) on a B2B Banking app in Angular.
 
-- :seedling: I’m currently learning react native and vue.
-- :martial_arts_uniform: Fun fact: I was French champion of Chinese boxing (sanda) in 2012.
+- **Full stack web developer intern (R&D)** at [_Berger-Levrault_](https://www.berger-levrault.com/fr/) working with Angular, NodeJS, Neo4J and Docker.
 
-## <br />
-
-### 🛠 Currently working with:
+## My Current  stack
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=60a5bf)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=60a5bf)
@@ -37,11 +29,8 @@ My name is Ismaël Saï and I'm a computer science engineer specialized in web a
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=60a5bf)
 ![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=60a5bf)
 
-## <br />
 
-### 💻 highlighted projects:
-
-<!-- YOUTUBE:START -->
+## My Projects
 
 - [Review analysis (MEAN Stack)](https://github.com/SAIIsmael/reviewAnalysis)
 - [Earth-moon simulation(C++/openGL)](https://github.com/SAIIsmael/earth-moonSystem)
@@ -50,16 +39,23 @@ My name is Ismaël Saï and I'm a computer science engineer specialized in web a
 
 ➡️ [more projects...](https://github.com/SAIIsmael)
 
----
+## My Github stats
+<p style="text-align: center;">
+<a href="https://github.com/SAIIsmael">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAIIsmael&hide=html,textex,jupyter%20notebook,css&langs_count=3&title_color=ffffff&theme=dracula" />
+</a>&nbsp;&nbsp;
+<a href="https://github.com/SAIIsmael">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SAIISmael&show_icons=true&line_height=27&count_private=true&title_color=ffffff&theme=dracula" alt="Martin's GitHub Stats" />
+</a>
+</p>
 
-### 🔌 Connect with me:
 
-[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+## Connect With Me
+[<img align="left" alt="YouTube" height="22px" src=" https://custom-icon-badges.demolab.com/badge/youtube-red.svg?logo=youtube&logoSource=feather" />][youtube]
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="LinkedIn" height="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
-
-[youtube]: https://www.youtube.com/channel/UCziNlsJngBGt3JkyXW5vUdA?view_as=subscriber
+[youtube]: https://www.youtube.com/channel/UCchPSimP8vpZzWGiBdTjbwA
 [linkedin]: https://www.linkedin.com/in/isma%C3%ABl-sa%C3%AF-97a338193/
-[discord]: https://discord.com/users/535053895236452353
+
+
