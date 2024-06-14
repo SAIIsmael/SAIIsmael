@@ -51,7 +51,7 @@ I'm a software engineer specialized in web and software development. I'm from Fr
 
 
 ## Connect With Me
-[<img align="left" alt="YouTube" height="22px" src=" https://custom-icon-badges.demolab.com/badge/youtube-red.svg?logo=youtube&logoSource=feather" />][youtube]
+[<img align="left" alt="YouTube" height="22px" src="https://custom-icon-badges.demolab.com/badge/youtube-red.svg?logo=youtube&logoSource=feather" />][youtube]
 
 [<img align="left" alt="LinkedIn" height="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
