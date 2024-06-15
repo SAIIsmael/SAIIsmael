@@ -3,7 +3,7 @@
 
 I'm a software engineer specialized in web and software development. I'm from France :fr:, living in Canada 🇨🇦.
 
-[View my resume](ismaelsai.tiiny.site)
+[View my resume](http://ismaelsai.com/assets/resume/resume_final.pdf)
 
 ## My Experience
 
