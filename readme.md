@@ -33,9 +33,9 @@ I'm a software engineer specialized in web and software development. I'm from Fr
 ## My Projects
 
 - [Review analysis (MEAN Stack)](https://github.com/SAIIsmael/reviewAnalysis)
-- [Earth-moon simulation(C++/openGL)](https://github.com/SAIIsmael/earth-moonSystem)
 - [Land Analysis Dordogne (Deep Learning)](https://github.com/SAIIsmael/AnalyseTerrainDordogne)
-- [Netflix clone (MERN Stack)](https://github.com/SAIIsmael/Netflixclone)
+- [Earth-moon simulation(C++/openGL)](https://github.com/SAIIsmael/earth-moonSystem)
+- [1010! The puzzle game (C++/ncurses](https://github.com/SAIIsmael/1010-the-puzzle-game)
 
 ➡️ [more projects...](https://github.com/SAIIsmael)
 
