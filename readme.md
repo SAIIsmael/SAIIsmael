@@ -40,13 +40,20 @@ I'm a software engineer specialized in web and software development. I'm from Fr
 ➡️ [more projects...](https://github.com/SAIIsmael)
 
 ## My Github stats
-<p style="text-align: center;">
+<p style="text-align: center; display: flex; flex-direction: row;">
 <a href="https://github.com/SAIIsmael">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAIIsmael&hide=html,textex,jupyter%20notebook,css&langs_count=3&title_color=ffffff&theme=dracula" />
 </a>&nbsp;&nbsp;
 <a href="https://github.com/SAIIsmael">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SAIISmael&show_icons=true&line_height=27&count_private=true&title_color=ffffff&theme=dracula" alt="Martin's GitHub Stats" />
 </a>
+</p>
+
+## Miscellaneous
+
+<p style="text-align: center;">
+<img src="https://leetcard.jacoblin.cool/SAIIsmael?theme=nord&font=Outfit" width="400ox" alt="JacobLin's leetcode stats"/>&nbsp;
+<img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198102483457&show_recent_game_bg=true"  width="400ox"/><br/>
 </p>
 
 
