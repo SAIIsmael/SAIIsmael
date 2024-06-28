@@ -52,8 +52,7 @@ I'm a software engineer specialized in web and software development. I'm from Fr
 ## Miscellaneous
 
 <p style="text-align: center;">
-<img src="https://leetcard.jacoblin.cool/SAIIsmael?theme=nord&font=Outfit" width="400ox" alt="JacobLin's leetcode stats"/>&nbsp;
-<img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198102483457&show_in_game_bg=true&show_recent_game_bg=false"  width="400ox"/>
+<img src="https://leetcard.jacoblin.cool/SAIIsmael?theme=nord&font=Outfit" width="400ox" alt="JacobLin's leetcode stats"/>
 </p>
 
 
