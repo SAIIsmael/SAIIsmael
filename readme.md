@@ -39,10 +39,6 @@ I'm a software engineer specialized in web and software development. I'm from Fr
 </a>
 </p>
 
-## Miscellaneous
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31c2pqiybx4orbxqfyghly7li7o4&cover_image=true&theme=natemoo-re&show_offline=true&background_color=282a36&interchange=true&bar_color_cover=false&bar_color=8BE9FD" width="400px" alt="Kittinan's spotify profile" />
-<br/>
-
 ## Connect With Me
 [<img align="left" alt="YouTube" height="22px" src="https://custom-icon-badges.demolab.com/badge/youtube-red.svg?logo=youtube&logoSource=feather" />][youtube]
 
