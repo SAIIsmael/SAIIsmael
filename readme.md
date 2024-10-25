@@ -7,6 +7,8 @@ I'm a software engineer specialized in web and software development. I'm from Fr
 
 ## My Experience
 
+- **Freelance software engineer** working for a _confidential client_ **(small business)** on a client management dashboard
+  
 - **Software Engineer consultant** at [_Capgemini_](https://www.capgemini.com/fr-fr/) working for [_BPCE_](https://www.groupebpce.com/en/homepage-2/) on a B2B Banking app in Angular.
 
 - **Full stack web developer intern (R&D)** at [_Berger-Levrault_](https://www.berger-levrault.com/fr/) working with Angular, NodeJS, Neo4J and Docker.
@@ -45,8 +47,11 @@ I'm a software engineer specialized in web and software development. I'm from Fr
 [<img align="left" alt="YouTube" height="22px" src="https://custom-icon-badges.demolab.com/badge/youtube-red.svg?logo=youtube&logoSource=feather" />][youtube]
 
 [<img align="left" alt="LinkedIn" height="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="Buy me a coffee"  height="22px" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png">][bmc]
 
 [youtube]: https://www.youtube.com/channel/UCchPSimP8vpZzWGiBdTjbwA
 [linkedin]: https://www.linkedin.com/in/isma%C3%ABl-sa%C3%AF-97a338193/
+[bmc]: https://www.buymeacoffee.com/saiismael
+
 
 
