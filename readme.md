@@ -7,11 +7,13 @@ I'm a software engineer specialized in web and software development. I'm from Fr
 
 ## My Experience
 
-- **Freelance software engineer** working for a _confidential client_ **(small business)** on a client management dashboard
+- **Freelance AI Coding Consultant & Model Evaluator** working for [_Outlier AI_](https://outlier.ai/) on evaluating and reviewing AI-generated code across multiple programming languages, including JavaScript and Java.
   
 - **Software Engineer consultant** at [_Capgemini_](https://www.capgemini.com/fr-fr/) working for [_BPCE_](https://www.groupebpce.com/en/homepage-2/) on a B2B Banking app in Angular.
 
 - **Full stack web developer intern (R&D)** at [_Berger-Levrault_](https://www.berger-levrault.com/fr/) working with Angular, NodeJS, Neo4J and Docker.
+  
+- **Full stack web developer** at [_STSAI Novarix_](https://www.linkedin.com/company/stsai-novarix/?originalSubdomain=fr) working on a retail website with HTML5, CSS, Bootstrap, Javascript and PHP.
     
 ## My Projects
 
