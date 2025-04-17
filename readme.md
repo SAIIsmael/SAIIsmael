@@ -1,7 +1,8 @@
 
 # Ismael L. Sai 
 
-I'm a software engineer specialized in web and software development. I'm from France :fr:, living in Canada 🇨🇦.
+I'm a software engineer based in Canada, with a strong interest in building reliable, well-architected systems across the stack.
+Professionally focused on web technologies, but passionate about software engineering as a whole, from low-level logic to user-facing design.
 
 [View my resume](http://ismaelsai.com/assets/resume/resume_final.pdf) • [Access my blog](https://my-blog-lx7y6lb5a-izzys-projects-fc8cd514.vercel.app/)
 
@@ -20,7 +21,7 @@ I'm a software engineer specialized in web and software development. I'm from Fr
 - [Review analysis (MEAN Stack)](https://github.com/SAIIsmael/reviewAnalysis)
 - [Land Analysis Dordogne (Deep Learning)](https://github.com/SAIIsmael/AnalyseTerrainDordogne)
 - [Earth-moon simulation(C++/openGL)](https://github.com/SAIIsmael/earth-moonSystem)
-- [1010! The puzzle game (C++/ncurses](https://github.com/SAIIsmael/1010-the-puzzle-game)
+- [1010! The puzzle game (C++/ncurses)](https://github.com/SAIIsmael/1010-the-puzzle-game)
 
 ➡️ [more projects...](https://github.com/SAIIsmael)
 
