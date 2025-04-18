@@ -1,4 +1,3 @@
-
 # Ismael L. Sai 
 
 I'm a software engineer based in Canada, with a strong interest in building reliable, well-architected systems across the stack.
@@ -12,7 +11,7 @@ Professionally focused on web technologies, but passionate about software engine
   
 - **Software Engineer consultant** at [_Capgemini_](https://www.capgemini.com/fr-fr/) working for [_BPCE_](https://www.groupebpce.com/en/homepage-2/) on a B2B Banking app in Angular.
 
-- **Full stack web developer intern (R&D)** at [_Berger-Levrault_](https://www.berger-levrault.com/fr/) working with Angular, NodeJS, Neo4J and Docker.
+- **Full stack web developer (R&D)** at [_Berger-Levrault_](https://www.berger-levrault.com/fr/) working with Angular, NodeJS, Neo4J and Docker.
   
 - **Full stack web developer** at [_STSAI Novarix_](https://www.linkedin.com/company/stsai-novarix/?originalSubdomain=fr) working on a retail website with HTML5, CSS, Bootstrap, Javascript and PHP.
     
@@ -20,7 +19,7 @@ Professionally focused on web technologies, but passionate about software engine
 
 - [Review analysis (MEAN Stack)](https://github.com/SAIIsmael/reviewAnalysis)
 - [Land Analysis Dordogne (Deep Learning)](https://github.com/SAIIsmael/AnalyseTerrainDordogne)
-- [Earth-moon simulation(C++/openGL)](https://github.com/SAIIsmael/earth-moonSystem)
+- [Earth-moon simulation (C++/openGL)](https://github.com/SAIIsmael/earth-moonSystem)
 - [1010! The puzzle game (C++/ncurses)](https://github.com/SAIIsmael/1010-the-puzzle-game)
 
 ➡️ [more projects...](https://github.com/SAIIsmael)
