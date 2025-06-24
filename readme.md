@@ -47,7 +47,7 @@ Professionally focused on web technologies, but passionate about software engine
 [<img align="left" alt="LinkedIn" height="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="Buy me a coffee"  height="22px" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png">][bmc]
 
-[youtube]: https://www.youtube.com/channel/UCchPSimP8vpZzWGiBdTjbwA
+
 [linkedin]: https://www.linkedin.com/in/isma%C3%ABl-sa%C3%AF-97a338193/
 [bmc]: https://www.buymeacoffee.com/saiismael
 
