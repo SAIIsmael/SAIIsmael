@@ -1,6 +1,6 @@
 # Ismael L. Sai 
 
-Software engineer based in Canada, building solid systems across the stack. I work mostly with modern web tech, but I’m drawn to the craft of software as a whole — clean architecture, meaningful abstractions, and thoughtful design.
+Software engineer based in Canada, building solid systems across the stack. I work mostly with modern web tech, but I’m drawn to the craft of software as a whole. Clean architecture, meaningful abstractions, and thoughtful design.
 
 ## My Experience
 
