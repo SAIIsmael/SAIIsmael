@@ -1,11 +1,10 @@
 # Ismael L. Sai 
 
-I'm a software engineer based in Canada, with a strong interest in building reliable, well-architected systems across the stack.
-Professionally focused on web technologies, but passionate about software engineering as a whole, from low-level logic to user-facing design.
-
-[View my resume](http://ismaelsai.com/assets/resume/resume_final.pdf) • [Access my blog](https://my-blog-lx7y6lb5a-izzys-projects-fc8cd514.vercel.app/)
+Software engineer based in Canada, building solid systems across the stack. I work mostly with modern web tech, but I’m drawn to the craft of software as a whole — clean architecture, meaningful abstractions, and thoughtful design.
 
 ## My Experience
+
+- **Software Engineer** at [_Trading Central_](https://www.tradingcentral.com) building scalable frontends and tools for financial data analysis.
 
 - **Freelance AI Coding Consultant & Model Evaluator** working for [_Outlier AI_](https://outlier.ai/) on evaluating and reviewing AI-generated code across multiple programming languages, including JavaScript and Java.
   
@@ -27,7 +26,7 @@ Professionally focused on web technologies, but passionate about software engine
 ## My Current  stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img  src="https://skillicons.dev/icons?i=linux,bash,vscode,java,c,javascript,typescript,angular,nodejs,react,symfony,mongodb,mysql,docker,git" alt="https://skillicons.dev"/>
+    <img  src="https://skillicons.dev/icons?i=powershell, bash,vscode,java,javascript,typescript,angular,nodejs,postgres,podman,kubernetes,figma,sonarqube,jenkins,github,git" alt="https://skillicons.dev"/>
   </a>
 </p>
 
@@ -44,7 +43,6 @@ Professionally focused on web technologies, but passionate about software engine
 ## Connect With Me
 
 [<img align="left" alt="LinkedIn" height="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="Buy me a coffee"  height="22px" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png">][bmc]
 
 
 [linkedin]: https://www.linkedin.com/in/isma%C3%ABl-sa%C3%AF-97a338193/
