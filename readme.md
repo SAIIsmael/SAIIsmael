@@ -26,7 +26,7 @@ Software engineer based in Canada, building solid systems across the stack. I wo
 ## My Current  stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img  src="https://skillicons.dev/icons?i=powershell, bash,vscode,java,javascript,typescript,angular,nodejs,postgres,podman,kubernetes,figma,sonarqube,jenkins,github,git" alt="https://skillicons.dev"/>
+    <img  src="https://skillicons.dev/icons?i=powershell,bash,vscode,java,javascript,typescript,angular,nodejs,postgres,podman,kubernetes,figma,sonarqube,jenkins,github,git" alt="https://skillicons.dev"/>
   </a>
 </p>
 
